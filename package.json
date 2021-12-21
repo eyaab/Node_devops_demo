@@ -18,5 +18,8 @@
   "homepage": "https://github.com/eyaab/Node_devops_demo#readme",
   "dependencies": {
     "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.3"
   }
 }
